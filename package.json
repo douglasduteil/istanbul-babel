@@ -1,6 +1,6 @@
 {
   "name": "istanbul-babel",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Nice interface to transpile with Babel in Istanbul",
   "main": "index.js",
   "scripts": {
@@ -17,7 +17,8 @@
     "babel",
     "es6",
     "harmony"
-  ],  "author": {
+  ],
+  "author": {
     "name": "Douglas Duteil",
     "email": "douglasduteil@gmail.com"
   },
