@@ -1,0 +1,32 @@
+{
+  "name": "istanbul-babel",
+  "version": "1.0.0",
+  "description": "Nice interface to transpile with Babel in Istanbul",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/douglasduteil/istanbul-babel.git"
+  },
+  "keywords": [
+    "istanbul",
+    "istanbul-friendly",
+    "6to5",
+    "babel",
+    "es6",
+    "harmony"
+  ],  "author": {
+    "name": "Douglas Duteil",
+    "email": "douglasduteil@gmail.com"
+  },
+  "license": "WTFPL",
+  "bugs": {
+    "url": "https://github.com/douglasduteil/istanbul-babel/issues"
+  },
+  "homepage": "https://github.com/douglasduteil/istanbul-babel#readme",
+  "dependencies": {
+    "babel-core": "^5.7.4"
+  }
+}
